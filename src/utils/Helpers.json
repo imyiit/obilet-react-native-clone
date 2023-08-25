@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Otobüs Bileti",
+    "logo": "https://media.istockphoto.com/id/1177920519/vector/bus-icon-logo-isolated-on-white-background.jpg?s=170667a&w=0&k=20&c=a5Rh1DiIE3iwGMCgyydbfMKkfbbvnZgoFv5sn3z_TrM=",
+    "smallText": "Sıkça Sorulan sorular",
+    "options": [
+      {"text": "Otobüs biletimi nasıl açığa alabilirim?"},
+      {"text": "Otobüs biletimi nasıl değiştirebilirim?"},
+      {"text": "Otobüs biletimi nasıl iptal edebilirim?"}
+    ]
+  },
+  {
+    "title": "Uçak Bileti",
+    "logo": "https://png.pngitem.com/pimgs/s/94-949900_flight-airplane-logo-png-transparent-png.png",
+    "smallText": "Sıkça Sorulan sorular",
+    "options": [
+      {"text": "Uçak biletimi nasıl açığa alabilirim?"},
+      {"text": "Uçak biletimi nasıl değiştirebilirim?"},
+      {"text": "Uçak biletimi nasıl iptal edebilirim?"}
+    ]
+  },
+  {
+    "title": "Otel",
+    "logo": "https://e7.pngegg.com/pngimages/189/47/png-clipart-hotel-accommodation-computer-icons-motel-hotel-angle-text.png",
+    "smallText": "Sıkça Sorulan sorular",
+    "options": [
+      {"text": "Fiyatlara hangi hizmetler dahil?"},
+      {"text": "Nasıl rezervasyon yapabilirim?"},
+      {
+        "text": "Otele giriş yaparken yanımda bulundurmam gereken belgeler nelerdir?"
+      }
+    ]
+  },
+  {
+    "title": "Araç Kiralama",
+    "logo": "https://cdn1.vectorstock.com/i/1000x1000/86/45/car-icon-logo-design-black-symbol-isolated-vector-30688645.jpg",
+    "smallText": "Sıkça Sorulan sorular",
+    "options": [
+      {
+        "text": "Kiraladığım araçları nasıl iptal edebilirim? İade süresi nedir?"
+      },
+      {"text": "Adil yakıt politikası nedir?"},
+      {
+        "text": "Araçlarda kilometre sınırı var mı?"
+      }
+    ]
+  },
+  {
+    "title": "Feribot Bileti",
+    "logo": "https://w7.pngwing.com/pngs/40/310/png-transparent-ferry-terminal-bus-transport-hotel-ferry-black-transport-bus-thumbnail.png",
+    "smallText": "Sıkça Sorulan sorular",
+    "options": [
+      {
+        "text": "Feribot biletimi nasıl açığa alabilirim?"
+      },
+      {"text": "Satın aldığım bileti nereden görebilirim?"},
+      {
+        "text": "Feribotta evcil hayvanım ile seyehat edebilir miyim?"
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "jsx": "react-native",
+    "resolveJsonModule": true
+  },
+  "extends": "@tsconfig/react-native/tsconfig.json"
+}

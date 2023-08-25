@@ -1,0 +1,46 @@
+{
+  "bus": [
+    {
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Metro_Turizm_Logo.png",
+      "done": true,
+      "startLocation": "Ankara (Aşti Otogarı)",
+      "endLocation": "Çorum (Çorum Otogarı)",
+      "date": "16 Şubat 2023 Perşembe - 15:30",
+      "travellers": [
+        {
+          "name": "Yiğit İğci",
+          "pnr": "QETQSZ",
+          "no": 19,
+          "price": 300
+        },
+        {
+          "name": "Alper İğci",
+          "pnr": "SJWKX",
+          "no": 18,
+          "price": 300
+        }
+      ]
+    },
+    {
+      "logo": "https://edeturizm.com.tr/Images/logo.png",
+      "done": false,
+      "startLocation": "Kayseri (Kayseri Otogarı)",
+      "endLocation": "İzmir (İzmir Otogarı)",
+      "date": "12 Mart 2023 Perşembe - 11:30",
+      "travellers": [
+        {
+          "name": "Arda İğci",
+          "pnr": "QETQSZ",
+          "no": 13,
+          "price": 200
+        },
+        {
+          "name": "Mehmet İğci",
+          "pnr": "SJWKX",
+          "no": 14,
+          "price": 200
+        }
+      ]
+    }
+  ]
+}
